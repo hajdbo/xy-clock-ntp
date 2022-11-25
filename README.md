@@ -6,7 +6,7 @@ https://steve.fi/hardware/backup-and-restore/
 ![xy-clock](xy-clock.webp)
 
 ```
-8285
+debug port to 8285
 https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
 1 gnd
 2 u0txd gpio1 (26)
