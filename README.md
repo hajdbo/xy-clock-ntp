@@ -3,6 +3,8 @@
 https://www.aliexpress.com/item/1005002680590390.html
 https://steve.fi/hardware/backup-and-restore/
 
+![xy-clock](xy-clock.webp)
+
 ```
 8285
 https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
