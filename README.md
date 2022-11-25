@@ -1,9 +1,6 @@
 # xy-clock
 
-https://www.aliexpress.com/item/1005002680590390.html
 https://steve.fi/hardware/backup-and-restore/
-
-![xy-clock](xy-clock.webp)
 
 ```
 debug port to 8285
@@ -27,4 +24,6 @@ https://images.theengineeringprojects.com/image/webp/2019/04/DS1307-pinout.jpg.w
 5 sda - 12 mtck gpio13
 6 scl - 10 gpio12 mtdi
 ```
-
+![ESP8285/8266](ESP8266-Pinout.jpg)
+![xy-clock](xy-clock.webp)
+https://www.aliexpress.com/item/1005002680590390.html
