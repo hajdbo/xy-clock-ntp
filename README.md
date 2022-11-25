@@ -3,6 +3,7 @@
 https://www.aliexpress.com/item/1005002680590390.html
 https://steve.fi/hardware/backup-and-restore/
 
+```
 8285
 https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
 1 gnd
@@ -23,3 +24,5 @@ ds1307z (time)
 https://images.theengineeringprojects.com/image/webp/2019/04/DS1307-pinout.jpg.webp
 5 sda - 12 mtck gpio13
 6 scl - 10 gpio12 mtdi
+```
+
