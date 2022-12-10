@@ -14,20 +14,23 @@ https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
 5 chip_en (7)  "CH_PD"
 6 vdda (1)  3.3V
 
-tm1650
+TM1650
 https://www.datasheet4u.com/datasheet-pdf/TitanMicro/TM1650/pdf.php?id=840047
 2 scl - 10 gpio12 mtdi
 3 sda - 12 mtck gpio13
 4 gnd
 10 vdd
 
-ds1307z (time)
+DS1307Z (time)
 https://images.theengineeringprojects.com/image/webp/2019/04/DS1307-pinout.jpg.webp
 5 sda - 12 mtck gpio13
 6 scl - 10 gpio12 mtdi
 
-Q?
-onboard leds: what 8266 pins?
+LEDS
+ld_net (blue): 
+state (): 
+
+
 
 ```
 ![ESP8285/8266](ESP8266-Pinout.jpg)
