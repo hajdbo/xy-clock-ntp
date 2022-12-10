@@ -3,14 +3,14 @@
 https://steve.fi/hardware/backup-and-restore/
 
 ```
-debug port to 8285    3.3V
+debug port to 8285
 https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
 1 gnd
-2 u0txd gpio1 (26)
-3 u0rxd gpio3 (25)
-4 spi cs2 gpio0 (15)
-5 chip_en (7)
-6 vdda (1) (power)
+2 u0txd gpio1 (26)  "TX"
+3 u0rxd gpio3 (25)  "RX"
+4 spi cs2 gpio0 (15)  "FLASH" When pulled LOW: bootloader mode
+5 chip_en (7)  CH_PD?
+6 vdda (1)  3.3V
 
 tm1650
 https://www.datasheet4u.com/datasheet-pdf/TitanMicro/TM1650/pdf.php?id=840047
