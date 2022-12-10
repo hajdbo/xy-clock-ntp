@@ -12,6 +12,9 @@ https://wiki.tinkernet.ca/images/7/75/ESP8266-Pinout.jpeg
 5 chip_en (7)  "CH_PD"
 6 vdda (1)  3.3V
 
+Programming should be identical to ESP8266-01 board: https://www.monocilindro.com/2017/02/25/flashing-esp8266-using-ftdi-and-arduino-ide/
+
+
 tm1650
 https://www.datasheet4u.com/datasheet-pdf/TitanMicro/TM1650/pdf.php?id=840047
 2 scl - 10 gpio12 mtdi
