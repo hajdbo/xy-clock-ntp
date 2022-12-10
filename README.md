@@ -28,7 +28,7 @@ https://images.theengineeringprojects.com/image/webp/2019/04/DS1307-pinout.jpg.w
 
 LEDS
 ld_net (blue): 
-state (): 
+state (orange): 
 
 
 
