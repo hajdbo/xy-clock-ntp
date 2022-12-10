@@ -25,7 +25,12 @@ ds1307z (time)
 https://images.theengineeringprojects.com/image/webp/2019/04/DS1307-pinout.jpg.webp
 5 sda - 12 mtck gpio13
 6 scl - 10 gpio12 mtdi
+
+Q?
+onboard leds: what 8266 pins?
+
 ```
 ![ESP8285/8266](ESP8266-Pinout.jpg)
 ![xy-clock](xy-clock.webp)
 https://www.aliexpress.com/item/1005002680590390.html
+
