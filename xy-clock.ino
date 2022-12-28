@@ -44,7 +44,7 @@ void setup()
 void loop()
 {
   timeClient.update();
-  module.setupDisplay(true, 5);   // sometimes noise on the line may change the intensity level
+  module.setupDisplay(true, 4);   // sometimes noise on the line may change the intensity level
   switch (digits) {
     case 4: 
       nTime = timeClient.getHours() *100 + timeClient.getMinutes();
