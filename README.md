@@ -35,5 +35,5 @@ state (orange):
 ```
 ![ESP8285/8266](ESP8266-Pinout.jpg)
 ![xy-clock](xy-clock.webp)
-https://www.aliexpress.com/item/1005002680590390.html
+[https://www.aliexpress.com/item/1005002680590390.html](https://www.aliexpress.com/item/1005003783173379.html)
 
