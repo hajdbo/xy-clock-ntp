@@ -1,7 +1,8 @@
 # xy-clock an NTP clock for cheap
 
 This repo rewrites the firmware from a cheap Wifi-clock module to make it an NTP clock.
-![photo](IMG_20220904_230530.jpg | width=500)
+
+![photo](IMG_20220904_230530.jpg)
 
 https://steve.fi/hardware/backup-and-restore/
 
@@ -34,6 +35,7 @@ ld_net (blue):
 state (orange): 
 
 ```
+
 ![ESP8285/8266](ESP8266-Pinout.jpg)
 ![xy-clock](xy-clock.webp)
 [https://www.aliexpress.com/item/1005002680590390.html](https://www.aliexpress.com/item/1005003783173379.html)
