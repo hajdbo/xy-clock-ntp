@@ -1,5 +1,8 @@
 # xy-clock
 
+This repo rewrites the firmware from a cheap Wifi-clock module to make it an NTP clock.
+
+
 https://steve.fi/hardware/backup-and-restore/
 
 Programming should be identical to ESP8266-01 board: https://www.monocilindro.com/2017/02/25/flashing-esp8266-using-ftdi-and-arduino-ide/
