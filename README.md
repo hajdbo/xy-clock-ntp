@@ -1,4 +1,4 @@
-# xy-clock
+# xy-clock an NTP clock for cheap
 
 This repo rewrites the firmware from a cheap Wifi-clock module to make it an NTP clock.
 
